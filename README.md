@@ -2,6 +2,7 @@
 1. Objective
 
 The object of this capstone project is to build a neural network model to classify any user image. 
+
 2. Data Source 
 
 The original publication is:
