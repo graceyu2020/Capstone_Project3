@@ -51,8 +51,8 @@ Tested model on random pictures. It demonstrated the importance to have the infr
 7. Future work
 Label more features;
 Train model only has 3 color channels;
-Try U-Net to do object detection.
-Test GANs model
+Try U-Net to do object detection;
+Test GANs model.
 
 8. Preliminary GANs results
-GANs need more powerful computation, consider train the model on cloud or use large personal GPU.
+GANs need more powerful computation; consider train the model on cloud or use large personal GPU.
