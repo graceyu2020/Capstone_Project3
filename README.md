@@ -8,6 +8,7 @@ The object of this capstone project is to build a neural network model to classi
 The original publication is:
 Saikat Basu, Sangram Ganguly, Supratik Mukhopadhyay, Robert Dibiano, Manohar Karki and Ramakrishna Nemani, DeepSat - A Learning framework for Satellite Imagery, ACM SIGSPATIAL 2015.
 (http://csc.lsu.edu/~saikat/deepsat/)
+
 Kaggle CSV data file:
 https://www.kaggle.com/arpandhatt/satellite-image-classification
 
